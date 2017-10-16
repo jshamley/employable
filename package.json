@@ -2,7 +2,7 @@
   "name": "employable",
   "version": "1.0.0",
   "description": "Slides for a presentation on being employable as a software engineer/developer.",
-  "main": "index.js",
+  "main": "index.html",
   "dependencies": {
     "http-server": "^0.10.0",
     "reveal.js": "^3.5.0"
