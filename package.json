@@ -1,0 +1,24 @@
+{
+  "name": "employable",
+  "version": "1.0.0",
+  "description": "Slides for a presentation on being employable as a software engineer/developer.",
+  "main": "index.js",
+  "dependencies": {
+    "http-server": "^0.10.0",
+    "reveal.js": "^3.5.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jshamley/employable.git"
+  },
+  "author": "Jeff Shamley",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jshamley/employable/issues"
+  },
+  "homepage": "https://github.com/jshamley/employable#readme"
+}
