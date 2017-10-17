@@ -10,11 +10,12 @@ Jeff Shamley | @jeff_shamley
 #### There is no substitute for putting in the time.
 <!-- .element: class="fragment" -->
 
-Every senior was a junior at one point.
-<!-- .element: class="fragment" -->
+___
 
+# Experience
+
+Every senior was a junior at one point.
 Not every junior becomes a senior.
-<!-- .element: class="fragment" -->
 
 ---
 
@@ -23,19 +24,17 @@ Not every junior becomes a senior.
 Be excited to solve difficult problems.
 <!-- .element: class="fragment" -->
 
----
+___
 
 # Being Employable
 
 Learn something new every day.
-<!-- .element: class="fragment" -->
 
----
+___
 
 # Being Employable
 
 Be able to learn and apply on the fly.
-<!-- .element: class="fragment" -->
 
 ---
 
