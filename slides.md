@@ -15,7 +15,9 @@ ___
 # Experience
 
 Every senior was a junior at one point.
+
 Not every junior becomes a senior.
+<!-- .element: class="fragment" -->
 
 ---
 
