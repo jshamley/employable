@@ -30,11 +30,14 @@ Every senior was a junior at one point. Not every junior becomes a senior.
 
 ---
 
-#
+# Be Humble
 
 ---
 
-#
+# Feedback
+
+#### In your mind what makes a developer employable?
+<!-- .element: class="fragment" -->
 
 ---
 
