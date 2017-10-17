@@ -22,8 +22,6 @@ Not every junior becomes a senior.
 # Being Employable
 
 Be excited to solve difficult problems.
-<!-- .element: class="fragment" -->
-
 ___
 
 # Being Employable
@@ -36,28 +34,25 @@ ___
 
 Be able to learn and apply on the fly.
 
----
+___
 
 # Being Employable
 
 Be a mentor/helper. Even if you aren't a senior.
-<!-- .element: class="fragment" -->
 
----
+___
 
 # Being Employable
 
 Be willing to be wrong.
-<!-- .element: class="fragment" -->
 
----
+___
 
 # Being Employable
 
 Be willing to be in over your head
-<!-- .element: class="fragment" -->
 
----
+___
 
 # Show respect and empathy for others
 
