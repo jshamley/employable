@@ -29,31 +29,26 @@ ___
 # Being Employable
 
 Learn something new every day.
-
 ___
 
 # Being Employable
 
 Be able to learn and apply on the fly.
-
 ___
 
 # Being Employable
 
 Be a mentor/helper. Even if you aren't a senior.
-
 ___
 
 # Being Employable
 
 Be willing to be wrong.
-
 ___
 
 # Being Employable
 
 Be willing to be in over your head
-
 ___
 
 # Show respect and empathy for others
