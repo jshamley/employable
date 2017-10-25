@@ -59,7 +59,7 @@ ___
 
 ---
 
-# Feedback
+# Open Discussion
 
 #### In your mind what makes a developer employable?
 <!-- .element: class="fragment" -->
@@ -67,6 +67,10 @@ ___
 ---
 
 # Questions?
+
+---
+
+# Feedback
 
 ---
 
