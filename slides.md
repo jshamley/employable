@@ -29,6 +29,10 @@ ___
 # Being Employable
 
 Learn something new every day.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">The most valuable ingredient to a successful career in software development, &amp; I suspect most careers, is the love of learning. <a href="https://twitter.com/hashtag/DevDiscuss?src=hash&amp;ref_src=twsrc%5Etfw">#DevDiscuss</a></p>&mdash; David Neal (@reverentgeek) <a href="https://twitter.com/reverentgeek/status/917922916595130369?ref_src=twsrc%5Etfw">October 11, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ___
 
 # Being Employable
@@ -44,6 +48,10 @@ ___
 # Being Employable
 
 Be willing to be wrong.
+
+<blockquote class="twitter-tweet" data-lang="en"><p lang="en" dir="ltr">Work with people who you feel comfortable saying &quot;I don&#39;t know&quot; to them</p>&mdash; jessie frazelle (@jessfraz) <a href="https://twitter.com/jessfraz/status/912409382083842051?ref_src=twsrc%5Etfw">September 25, 2017</a></blockquote>
+<script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+
 ___
 
 # Being Employable
