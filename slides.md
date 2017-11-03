@@ -5,6 +5,10 @@ Jeff Shamley | @jeff_shamley
 
 ---
 
+# Disclaimers
+
+---
+
 # Experience
 
 #### There is no substitute for putting in the time.
